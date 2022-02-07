@@ -1,4 +1,4 @@
-[![N|Solid](http://ewin.biz/app/logo.png)](http://ewin.tw/python)
+
 [![N|python](https://github.com/iamyouku/test/raw/main/i01.jpg "Beauty")](https://www.google.com.tw)
 
 [CatOneTwo](https://github.com/CatOneTwo 'CatOneTwo')

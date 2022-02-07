@@ -1,3 +1,9 @@
+***ptyhon foreat***
+
+~delete line~
+
+*Dinner is Stack*
+
 `Happy`  
 -
 

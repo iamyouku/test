@@ -1,4 +1,4 @@
-![美女](https://github.com/iamyouku/test/raw/main/i01.jpg "Beauty")
+![python](https://github.com/iamyouku/test/raw//i01.jpg "Beauty")
 
 ***ptyhon foreat***
 

@@ -1,4 +1,4 @@
-![美女](https://github.com/iamyouku/test/raw)
+![美女](https://github.com/iamyouku/test/raw/i01.jpg)
 
 ***ptyhon foreat***
 

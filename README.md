@@ -1,9 +1,9 @@
--[x]趨勢
--[x]獵人
--[x]方向
--[]Python
--[]Java
--[]C
+- [x] 趨勢
+- [x] 獵人
+- [x] 方向
+- [ ] Python
+- [ ] Java
+- [ ] C
 
 
 README

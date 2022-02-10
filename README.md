@@ -1,4 +1,9 @@
-*iku
+[google](https://www.google.com)
+
+_python_
+
+~python~
+
 
 iku
 =
@@ -13,6 +18,8 @@ yOu
 - [ ] Python
 - [ ] Java
 - [ ] C
+
+
 
 
 README
@@ -77,6 +84,8 @@ iku
     printf("Hello, Markdown.");
     }
 ##### 記住：保留4個空白
+
+*ptyhon*
 
 *Python*
 **ForEat**
